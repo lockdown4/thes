@@ -42,3 +42,10 @@ h2{
     text-align: center;
     font-size: 40px;
 }
+
+.hess{
+    background-color: #a30404;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
